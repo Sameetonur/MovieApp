@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emrekilic/Documents/GitHub/MovieApp/MovieApp/MovieApp.csproj": {}
+    "D:\\GitHubb\\MovieApp\\MovieApp\\MovieApp.csproj": {}
   },
   "projects": {
-    "/Users/emrekilic/Documents/GitHub/MovieApp/MovieApp/MovieApp.csproj": {
+    "D:\\GitHubb\\MovieApp\\MovieApp\\MovieApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emrekilic/Documents/GitHub/MovieApp/MovieApp/MovieApp.csproj",
+        "projectUniqueName": "D:\\GitHubb\\MovieApp\\MovieApp\\MovieApp.csproj",
         "projectName": "MovieApp",
-        "projectPath": "/Users/emrekilic/Documents/GitHub/MovieApp/MovieApp/MovieApp.csproj",
-        "packagesPath": "/Users/emrekilic/.nuget/packages/",
-        "outputPath": "/Users/emrekilic/Documents/GitHub/MovieApp/MovieApp/obj/",
+        "projectPath": "D:\\GitHubb\\MovieApp\\MovieApp\\MovieApp.csproj",
+        "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHubb\\MovieApp\\MovieApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/emrekilic/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\samet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

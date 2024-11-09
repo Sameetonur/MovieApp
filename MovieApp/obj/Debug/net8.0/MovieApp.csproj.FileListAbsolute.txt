@@ -29,3 +29,4 @@ d:\GitHubb\MovieApp\MovieApp\obj\Debug\net8.0\refint\MovieApp.dll
 d:\GitHubb\MovieApp\MovieApp\obj\Debug\net8.0\MovieApp.pdb
 D:\GitHubb\MovieApp\MovieApp\obj\Debug\net8.0\MovieApp.genruntimeconfig.cache
 D:\GitHubb\MovieApp\MovieApp\obj\Debug\net8.0\ref\MovieApp.dll
+d:\GitHubb\MovieApp\MovieApp\obj\Debug\net8.0\MovieApp.csproj.AssemblyReference.cache
