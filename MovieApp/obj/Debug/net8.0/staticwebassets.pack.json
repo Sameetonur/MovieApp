@@ -1,371 +1,371 @@
 {
   "Files": [
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieApp.bundle.scp.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\MovieApp.bundle.scp.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\css\\main.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\css\\main.css",
       "PackagePath": "staticwebassets\\Uİ\\css\\main.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\apple-touch-icon.png",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\apple-touch-icon.png",
       "PackagePath": "staticwebassets\\Uİ\\img\\apple-touch-icon.png"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\favicon.png",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\favicon.png",
       "PackagePath": "staticwebassets\\Uİ\\img\\favicon.png"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-1.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-1.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\gallery\\gallery-1.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-10.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-10.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\gallery\\gallery-10.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-11.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-11.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\gallery\\gallery-11.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-12.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-12.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\gallery\\gallery-12.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-13.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-13.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\gallery\\gallery-13.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-14.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-14.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\gallery\\gallery-14.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-2.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-2.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\gallery\\gallery-2.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-3.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-3.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\gallery\\gallery-3.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-4.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-4.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\gallery\\gallery-4.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-5.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-5.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\gallery\\gallery-5.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-6.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-6.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\gallery\\gallery-6.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-7.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-7.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\gallery\\gallery-7.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-8-2.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-8-2.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\gallery\\gallery-8-2.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-8.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-8.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\gallery\\gallery-8.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-9.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-9.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\gallery\\gallery-9.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\logo.png",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\logo.png",
       "PackagePath": "staticwebassets\\Uİ\\img\\logo.png"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\profile-img.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\profile-img.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\profile-img.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-1.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-1.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\testimonials\\testimonials-1.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-2.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-2.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\testimonials\\testimonials-2.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-3.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-3.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\testimonials\\testimonials-3.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-4.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-4.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\testimonials\\testimonials-4.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-5.jpg",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-5.jpg",
       "PackagePath": "staticwebassets\\Uİ\\img\\testimonials\\testimonials-5.jpg"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\js\\main.js",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\js\\main.js",
       "PackagePath": "staticwebassets\\Uİ\\js\\main.js"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\scss\\Readme.txt",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\scss\\Readme.txt",
       "PackagePath": "staticwebassets\\Uİ\\scss\\Readme.txt"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.cjs.js",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.cjs.js",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\aos\\aos.cjs.js"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\aos\\aos.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.esm.js",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.esm.js",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\aos\\aos.esm.js"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.js",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.js",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\aos\\aos.js"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.js.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.js.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\aos\\aos.js.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\prb.txt",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\prb.txt",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\css\\prb.txt"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\css\\glightbox.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\css\\glightbox.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\glightbox\\css\\glightbox.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\css\\glightbox.min.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\css\\glightbox.min.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\js\\glightbox.js",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\js\\glightbox.js",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\glightbox\\js\\glightbox.js"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\js\\glightbox.min.js",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\js\\glightbox.min.js",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\php-email-form\\validate.js",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\php-email-form\\validate.js",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\php-email-form\\validate.js"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\swiper\\swiper-bundle.min.css",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\swiper\\swiper-bundle.min.css",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\swiper\\swiper-bundle.min.js",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\swiper\\swiper-bundle.min.js",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Id": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "Id": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\swiper\\swiper-bundle.min.js.map",
       "PackagePath": "staticwebassets\\Uİ\\vendor\\swiper\\swiper-bundle.min.js.map"
     },
     {

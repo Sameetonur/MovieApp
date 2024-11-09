@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "V4/iRwPrCT7O+7FN6+05LgTJou+dBxrEHptyWADv1rI=",
+  "Hash": "XAtKd7+V6hRmSsNcIfcMryGU053rL9TfAWLozO0Fi0M=",
   "Source": "MovieApp",
   "BasePath": "_content/MovieApp",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MovieApp.styles.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MovieApp.styles.css",
       "SourceId": "MovieApp",
       "SourceType": "Computed",
-      "ContentRoot": "d:\\GitHubb\\MovieApp\\MovieApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "MovieApp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "d:\\GitHubb\\MovieApp\\MovieApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MovieApp.styles.css"
+      "OriginalItemSpec": "D:\\GitHubb\\MovieApp\\MovieApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MovieApp.styles.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieApp.bundle.scp.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieApp.bundle.scp.css",
       "SourceId": "MovieApp",
       "SourceType": "Computed",
-      "ContentRoot": "d:\\GitHubb\\MovieApp\\MovieApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "MovieApp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,10 +52,10 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "d:\\GitHubb\\MovieApp\\MovieApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieApp.bundle.scp.css"
+      "OriginalItemSpec": "D:\\GitHubb\\MovieApp\\MovieApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieApp.bundle.scp.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\css\\main.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\css\\main.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -74,7 +74,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\css\\main.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\apple-touch-icon.png",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\apple-touch-icon.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -93,7 +93,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\apple-touch-icon.png"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\favicon.png",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\favicon.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -112,7 +112,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\favicon.png"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-1.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-1.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -131,7 +131,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\gallery\\gallery-1.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-10.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-10.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -150,7 +150,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\gallery\\gallery-10.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-11.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-11.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -169,7 +169,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\gallery\\gallery-11.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-12.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-12.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -188,7 +188,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\gallery\\gallery-12.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-13.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-13.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -207,7 +207,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\gallery\\gallery-13.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-14.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-14.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -226,7 +226,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\gallery\\gallery-14.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-2.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-2.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -245,7 +245,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\gallery\\gallery-2.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-3.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-3.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -264,7 +264,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\gallery\\gallery-3.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-4.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-4.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -283,7 +283,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\gallery\\gallery-4.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-5.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-5.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -302,7 +302,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\gallery\\gallery-5.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-6.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-6.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -321,7 +321,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\gallery\\gallery-6.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-7.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-7.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -340,7 +340,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\gallery\\gallery-7.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-8-2.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-8-2.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -359,7 +359,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\gallery\\gallery-8-2.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-8.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-8.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -378,7 +378,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\gallery\\gallery-8.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-9.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\gallery\\gallery-9.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -397,7 +397,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\gallery\\gallery-9.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\logo.png",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\logo.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -416,7 +416,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\logo.png"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\profile-img.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\profile-img.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -435,7 +435,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\profile-img.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-1.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-1.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -454,7 +454,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\testimonials\\testimonials-1.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-2.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-2.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -473,7 +473,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\testimonials\\testimonials-2.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-3.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-3.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -492,7 +492,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\testimonials\\testimonials-3.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-4.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-4.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -511,7 +511,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\testimonials\\testimonials-4.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-5.jpg",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\testimonials\\testimonials-5.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -530,7 +530,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\testimonials\\testimonials-5.jpg"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\js\\main.js",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\js\\main.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -549,7 +549,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\js\\main.js"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\scss\\Readme.txt",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\scss\\Readme.txt",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -568,7 +568,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\scss\\Readme.txt"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.cjs.js",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.cjs.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -587,7 +587,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\aos\\aos.cjs.js"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -606,7 +606,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\aos\\aos.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.esm.js",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.esm.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -625,7 +625,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\aos\\aos.esm.js"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.js",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -644,7 +644,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\aos\\aos.js"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.js.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\aos\\aos.js.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -663,7 +663,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\aos\\aos.js.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -682,7 +682,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -701,7 +701,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -720,7 +720,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -739,7 +739,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -758,7 +758,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -777,7 +777,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -796,7 +796,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -815,7 +815,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -834,7 +834,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -853,7 +853,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -872,7 +872,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -891,7 +891,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -910,7 +910,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -929,7 +929,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -948,7 +948,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -967,7 +967,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -986,7 +986,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1005,7 +1005,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1024,7 +1024,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1043,7 +1043,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1062,7 +1062,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1081,7 +1081,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1100,7 +1100,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1119,7 +1119,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1138,7 +1138,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1157,7 +1157,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1176,7 +1176,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1195,7 +1195,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1214,7 +1214,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1233,7 +1233,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1252,7 +1252,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1271,7 +1271,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1290,7 +1290,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1309,7 +1309,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1328,7 +1328,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1347,7 +1347,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1366,7 +1366,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1385,7 +1385,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\prb.txt",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\css\\prb.txt",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1404,7 +1404,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\css\\prb.txt"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1423,7 +1423,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1442,7 +1442,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1461,7 +1461,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1480,7 +1480,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1499,7 +1499,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1518,7 +1518,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1537,7 +1537,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1556,7 +1556,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1575,7 +1575,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1594,7 +1594,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1613,7 +1613,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1632,7 +1632,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\css\\glightbox.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\css\\glightbox.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1651,7 +1651,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\glightbox\\css\\glightbox.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\css\\glightbox.min.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\css\\glightbox.min.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1670,7 +1670,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\js\\glightbox.js",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\js\\glightbox.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1689,7 +1689,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\glightbox\\js\\glightbox.js"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\js\\glightbox.min.js",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\glightbox\\js\\glightbox.min.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1708,7 +1708,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\php-email-form\\validate.js",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\php-email-form\\validate.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1727,7 +1727,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\php-email-form\\validate.js"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\swiper\\swiper-bundle.min.css",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\swiper\\swiper-bundle.min.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1746,7 +1746,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\swiper\\swiper-bundle.min.js",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\swiper\\swiper-bundle.min.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
@@ -1765,7 +1765,7 @@
       "OriginalItemSpec": "wwwroot\\Uİ\\vendor\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Identity": "d:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\vendor\\swiper\\swiper-bundle.min.js.map",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
