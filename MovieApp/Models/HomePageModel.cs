@@ -5,9 +5,7 @@ namespace MovieApp.Models;
 
 public class HomePageModel
 {
-    public AppSettings? AppSetting { get; internal set; }
-    public IEnumerable<Contacts>? Contacts { get; internal set; }
-    public IEnumerable<Socials>? Socials { get; internal set; }
-    public IEnumerable<Movies>? Movies { get; internal set; }
-    internal IEnumerable<Category>? Category { get; set; }
+    public AppSetting? AppSetting { get; internal set; }
+    public IEnumerable<Social>? Socials { get; internal set; }
+    public IEnumerable<Movie>? Movies { get; internal set; }
 }

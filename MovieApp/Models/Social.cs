@@ -2,7 +2,7 @@ using System;
 
 namespace MovieApp.Models;
 
-public class Socials
+public class Social
 {
   public int Id { get; set; }
   public string? SocialName { get; set; }

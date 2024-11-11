@@ -4,7 +4,7 @@ namespace MovieApp.Models;
 
 using System;
 
-public class Movies
+public class Movie
 {
   public int MovieId { get; set; }
   public int CategoryId { get; set; }

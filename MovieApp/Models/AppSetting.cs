@@ -2,7 +2,7 @@ using System;
 
 namespace MovieApp.Models;
 
-public class AppSettings
+public class AppSetting
 {
   public int Id { get; set; }
   public string? BrandName { get; set; }
