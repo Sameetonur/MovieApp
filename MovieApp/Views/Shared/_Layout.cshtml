@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@model HomePageModel
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -22,13 +23,13 @@
 <body class="index-page">
   @await Html.PartialAsync("_HeaderPartial")
   <main class="main">
-    @RenderBody()
+  @RenderBody()
     <!-- Hero Section -->
-    @await Html.PartialAsync("_SectionPartial")
+  @await Html.PartialAsync("_SectionPartial")
   </main>
   @await Html.PartialAsync("_FooterPartial")
   <!-- Scroll Top -->
- @await Html.PartialAsync("_ScrollTopPartial")
+  @await Html.PartialAsync("_ScrollTopPartial")
   <!-- Preloader -->
   @await Html.PartialAsync("_PreloaderPartial")
   @await Html.PartialAsync("_ScriptsPartial")
