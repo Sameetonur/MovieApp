@@ -8,7 +8,7 @@ namespace MovieApp.Controllers;
 
 public class HomeController : Controller
 {
-    public async Task<IActionResult> Index()
+    public async Task<IActionResult> IndexAsync()
     {
          var connectionString = "Server=localhost,1441;Database=PopcornViews;User=SA;Password=YourStrong@Passw0rd;TrustServerCertificate=true";
 
