@@ -1,4 +1,4 @@
-using System.Diagnostics;
+
 using Microsoft.AspNetCore.Mvc;
 using MovieApp.Models;
 using System.Data.SqlClient;
@@ -6,11 +6,14 @@ using Dapper;
 
 namespace MovieApp.Controllers;
 
+
+
+
 public class HomeController : Controller
 {
     public async Task<IActionResult> Index()
     {
-        var connectionString = "Server=localhost,1441;Database=PopcornViews;User=SA;Password=YourStrong@Passw0rd;TrustServerCertificate=true";
+    var connectionString = "Server=localhost,1441;Database=PopcornViews;User=SA;Password=YourStrong@Passw0rd;TrustServerCertificate=true";
 
         // Server = localhost,1441; Database = PopcornViews; User = SA; Password = YourStrong@Passw0rd; TrustServerCertificate = true
         var connection = new SqlConnection(connectionString);
@@ -28,15 +31,28 @@ public class HomeController : Controller
         var queryCategory = "select * from Categories";
         var categories = await connection.QueryAsync<Category>(queryCategory);
 
-
         HomePageModel model = new HomePageModel()
         {
             AppSetting = appSetting,
             Movies = movies,
             Socials = socials,
-            Categories = categories
+            Categories = categories,
         };
         return View(model);
     }
 
-}
+
+    public async Task<IActionResult> Contact()
+    {
+        var connectionString = "Server=localhost,1441;Database=PopcornViews;User=SA;Password=YourStrong@Passw0rd;TrustServerCertificate=true";
+        var connection = new SqlConnection(connectionString);
+
+        var queryContacts = "select * from Contacts";
+        var contacts = await connection.QueryAsync<Contact>(queryContacts);
+
+       return View(contacts)
+    
+    }
+
+
+ }

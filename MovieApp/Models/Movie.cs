@@ -2,8 +2,6 @@ using System;
 
 namespace MovieApp.Models;
 
-using System;
-
 public class Movie
 {
   public int MovieId { get; set; }
