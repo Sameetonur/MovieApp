@@ -20,31 +20,31 @@ namespace MovieApp.Areas.Kategori.Controllers
             }
         }
 
-        public async Task<ActionResult> Aksiyon()
+        public async Task<IActionResult> Aksiyon()
         {
             var moviesaksiyon = await GetMoviesByCategory(1);
             return View(moviesaksiyon);
         }
 
-        public async Task<ActionResult> Komedi()
+        public async Task<IActionResult> Komedi()
         {
             var movieskomedi = await GetMoviesByCategory(2);
             return View(movieskomedi);
         }
 
-        public async Task<ActionResult> Drama()
+        public async Task<IActionResult> Drama()
         {
             var moviesdrama = await GetMoviesByCategory(3);
             return View(moviesdrama);
         }
 
-        public async Task<ActionResult> Korku()
+        public async Task<IActionResult> Korku()
         {
             var movieskorku = await GetMoviesByCategory(4);
             return View(movieskorku);
         }
 
-        public async Task<ActionResult> BilimKurgu()
+        public async Task<IActionResult> BilimKurgu()
         {
             var moviesbilim = await GetMoviesByCategory(5);
             return View(moviesbilim);
