@@ -1,27 +1,28 @@
 ﻿<header id="header" class="header d-flex align-items-center sticky-top">
     <div class="container-fluid position-relative d-flex align-items-center justify-content-between">
 
-        <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
+        <a asp-controller="Home" asp-action="Index" class="logo d-flex align-items-center me-auto me-xl-0">
             <i class="bi bi-camera"></i>
             <h1 class="sitename">PopcornViews</h1>
         </a>
 
         <nav id="navmenu" class="navmenu">
             <ul>
-                <li><a href="index.html" class="active">Ana Sayfa<br></a></li>
-                <li class="dropdown"><a href="gallery.html"><span>Kategoriler</span><i
+                <li><a asp-controller="Home" asp-action="Index">Ana Sayfa</a></li>
+                <li class="dropdown"><a href="gallery.html"><span>KATEGORİLER</span><i
                             class="bi bi-chevron-down toggle-dropdown"></i></a>
 
                     <ul>
-                        <li><a asp-controller="Category" asp-action="Aksiyon">Aksiyon</a></li>
-                        <li><a asp-controller="Category" asp-action="Komedi">Komedi</a></li>
-                        <li><a asp-controller="Category" asp-action="Drama">Drama</a></li>
-                        <li><a asp-controller="Category" asp-action="Korku">Korku</a></li>
-                        <li><a asp-controller="Category" asp-action="BilimKurgu">Bilim Kurgu</a></li>
+                        <li><a asp-area="Kategori" asp-controller="Category" asp-action="Aksiyon">Aksiyon</a></li>
+                        <li><a asp-area="Kategori" asp-controller="Category" asp-action="Komedi">Komedi</a></li>
+                        <li><a asp-area="Kategori" asp-controller="Category" asp-action="Drama">Drama</a></li>
+                        <li><a asp-area="Kategori" asp-controller="Category" asp-action="Korku">Korku</a></li>
+                        <li><a asp-area="Kategori" asp-controller="Category" asp-action="BilimKurgu">Bilim Kurgu</a>
+                        </li>
                     </ul>
                 </li>
-                <li><a asp-controller="Home" asp-action="Contact">İletişim</a></li>
-                <li><a asp-area="Admin" asp-controller="Home" asp-action="Index" >Yönetim<br></a></li>
+                <li><a asp-area="Iletisim" asp-controller="Iletisims" asp-action="Index">İLETİŞİM</a></li>
+                <li><a asp-area="Admin" asp-controller="Home" asp-action="Index">YÖNETİM<br></a></li>
             </ul>
             <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>

@@ -41,18 +41,4 @@ public class HomeController : Controller
         return View(model);
     }
 
-
-    public async Task<IActionResult> Contact()
-    {
-        var connectionString = "Server=localhost,1441;Database=PopcornViews;User=SA;Password=YourStrong@Passw0rd;TrustServerCertificate=true";
-        var connection = new SqlConnection(connectionString);
-
-        var queryContacts = "select * from Contacts";
-        var contacts = await connection.QueryAsync<Contact>(queryContacts);
-
-       return View(contacts)
-    
-    }
-
-
  }

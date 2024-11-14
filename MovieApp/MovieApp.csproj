@@ -13,6 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Areas\Iletisim\Views\Shared\" />
+    <Folder Include="Areas\Kategori\Views\" />
+    <Folder Include="Areas\Kategori\Views\Shared\" />
     <Folder Include="wwwroot/Admin/" />
   </ItemGroup>
 
