@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ek+RWW6qOfRKvH9/5BoqcVMNxKTnywN+VyeNmSCh3fI=",
+  "Hash": "N9a1zkRvSnA4mRG4BhqBiJ9JbmHluGwsizJGql0CM+k=",
   "Source": "MovieApp",
   "BasePath": "_content/MovieApp",
   "Mode": "Default",
@@ -9553,6 +9553,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uİ\\img\\apple-touch-icon.png"
+    },
+    {
+      "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\backfont.jpg",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "Uİ/img/backfont.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uİ\\img\\backfont.jpg"
     },
     {
       "Identity": "D:\\GitHubb\\MovieApp\\MovieApp\\wwwroot\\Uİ\\img\\favicon.png",
