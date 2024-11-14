@@ -18,102 +18,102 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\GitHubb\MovieApp\MovieApp
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/GitHubb/MovieApp/MovieApp/Areas/Admin/Views/Home/Index.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Areas/Admin/Views/Shared/_Layout.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Areas/Admin/Views/_ViewImports.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Areas/Admin/Views/_ViewStart.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Areas/Iletisim/Views/Iletisims/Index.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Areas/Iletisim/Views/Iletisims/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWxldGlzaW1cVmlld3NcSWxldGlzaW1zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Areas/Iletisim/Views/_ViewImports.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Areas/Iletisim/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWxldGlzaW1cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Areas/Iletisim/Views/_ViewStart.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Areas/Iletisim/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWxldGlzaW1cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Areas/Kategori/Views/Category/Aksiyon.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Areas/Kategori/Views/Category/Aksiyon.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2F0ZWdvcmlcVmlld3NcQ2F0ZWdvcnlcQWtzaXlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Areas/Kategori/Views/Category/BilimKurgu.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Areas/Kategori/Views/Category/BilimKurgu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2F0ZWdvcmlcVmlld3NcQ2F0ZWdvcnlcQmlsaW1LdXJndS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Areas/Kategori/Views/Category/Drama.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Areas/Kategori/Views/Category/Drama.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2F0ZWdvcmlcVmlld3NcQ2F0ZWdvcnlcRHJhbWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Areas/Kategori/Views/Category/Komedi.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Areas/Kategori/Views/Category/Komedi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2F0ZWdvcmlcVmlld3NcQ2F0ZWdvcnlcS29tZWRpLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Areas/Kategori/Views/Category/Korku.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Areas/Kategori/Views/Category/Korku.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2F0ZWdvcmlcVmlld3NcQ2F0ZWdvcnlcS29ya3UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Areas/Kategori/Views/_ViewImports.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Areas/Kategori/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2F0ZWdvcmlcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Areas/Kategori/Views/_ViewStart.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Areas/Kategori/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2F0ZWdvcmlcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Views/Home/Index.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Views/Shared/_FooterPartial.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Views/Shared/_FooterPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Views/Shared/_HeaderPartial.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Views/Shared/_HeaderPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Views/Shared/_PreloaderPartial.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Views/Shared/_PreloaderPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QcmVsb2FkZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Views/Shared/_ScriptsPartial.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Views/Shared/_ScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Views/Shared/_ScrollTopPartial.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Views/Shared/_ScrollTopPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY3JvbGxUb3BQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Views/Shared/_StylesPartial.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Views/Shared/_StylesPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHlsZXNQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Views/_ViewImports.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Views/_ViewStart.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/GitHubb/MovieApp/MovieApp/Views/Shared/_Layout.cshtml]
+[D:/GitHubb/MovieApp/MovieApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bbrxf8xmuu
