@@ -1,14 +1,15 @@
 ﻿<header id="header" class="header d-flex align-items-center sticky-top">
     <div class="container-fluid position-relative d-flex align-items-center justify-content-between">
 
-        <a asp-controller="Home" asp-action="Index" class="logo d-flex align-items-center me-auto me-xl-0">
+        <a asp-area="Views" asp-controller="Home" asp-action="Index"
+            class="logo d-flex align-items-center me-auto me-xl-0">
             <i class="bi bi-camera"></i>
             <h1 class="sitename">PopcornViews</h1>
         </a>
 
         <nav id="navmenu" class="navmenu">
             <ul>
-                <li><a asp-controller="Home" asp-action="Index">Ana Sayfa</a></li>
+                <li><a asp-area="Views" asp-controller="Home" asp-action="Index">Ana Sayfa</a></li>
                 <li class="dropdown"><a href="gallery.html"><span>KATEGORİLER</span><i
                             class="bi bi-chevron-down toggle-dropdown"></i></a>
 
