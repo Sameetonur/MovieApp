@@ -30,7 +30,7 @@
                             <a href="@item.MovieImgURL" title="@item.MovieName" class="glightbox preview-link">
                                 <i class="bi bi-arrows-angle-expand"></i>
                             </a>
-                            <a href="gallery-single.html" class="details-link">
+                            <a asp-action="Index" asp-controller="Detay" asp-route-id="@item.MovieId" class="details-link">
                                 <i class="bi bi-link-45deg"></i>
                             </a>
                         </div>

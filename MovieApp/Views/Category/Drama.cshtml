@@ -1,13 +1,14 @@
 @model IEnumerable<Movie>
 @{
-    ViewData["Title"] = "Komedi";
+    ViewData["Title"] = "Drama";
 }
+
 <div class="page-title" data-aos="fade">
     <div class="heading">
         <div class="container">
             <div class="row d-flex justify-content-center text-center">
                 <div class="col-lg-8">
-                    <h1>KOMEDİ</h1>
+                    <h1>DRAM</h1>
                     <p class="mb-0">Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint
                         voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi
                         ratione sint. Sit quaerat ipsum dolorem.</p>
@@ -30,7 +31,7 @@
                             <a href="@item.MovieImgURL" title="@item.MovieName" class="glightbox preview-link">
                                 <i class="bi bi-arrows-angle-expand"></i>
                             </a>
-                            <a href="gallery-single.html" class="details-link">
+                            <a asp-action="Index" asp-controller="Detay" asp-route-id="@item.MovieId" class="details-link">
                                 <i class="bi bi-link-45deg"></i>
                             </a>
                         </div>

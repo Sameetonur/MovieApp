@@ -21,18 +21,6 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapAreaControllerRoute(
-    name: "kategoriArea",
-    pattern: "Kategori/{controller=Category}/{action=Index}/{id?}",
-    areaName: "Kategori"
-);
-
-app.MapAreaControllerRoute(
-    name: "ıletisimArea",
-    pattern: "İletişim/{controller=Iletisims}/{action=Index}/{id?}",
-    areaName: "Iletisim"
-);
-
-app.MapAreaControllerRoute(
     name: "adminArea",
     pattern: "admin/{controller=Home}/{action=Index}/{id?}",
     areaName: "Admin"
