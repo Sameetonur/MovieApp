@@ -6,12 +6,11 @@ using MovieApp.Models;
 
 
 
-namespace MovieApp.Areas.Iletisim.Controllers
+namespace MovieApp.Controllers
 {
     public class IletisimsController : Controller
     {
-        [Area("Iletisim")]
-
+        
         public async Task<ActionResult> Index()
         {
 

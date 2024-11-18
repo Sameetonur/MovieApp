@@ -4,9 +4,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using MovieApp.Models;
 
-namespace MovieApp.Areas.Kategori.Controllers
+namespace MovieApp.Controllers
 {
-    [Area("Kategori")]
+    
     public class CategoryController : Controller
     {
         private readonly string connectionString = "Server=localhost,1441;Database=PopcornViews;User=SA;Password=YourStrong@Passw0rd;TrustServerCertificate=true";
