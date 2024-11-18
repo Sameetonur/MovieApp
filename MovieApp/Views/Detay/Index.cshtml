@@ -7,25 +7,17 @@
         <div class="container">
             <div class="row d-flex justify-content-center text-center">
                 <div class="col-lg-8">
-
                     <div class="movie-video">
-                        <iframe width="100%" height="500" src="https://www.youtube.com/embed/hEJnMQG9ev8"
-                            allowfullscreen></iframe>
+                        <iframe width="100%" height="500" src="@Model.MovieURL" allowfullscreen></iframe>
                     </div>
-
-
                 </div>
             </div>
         </div>
     </div>
-
 </div>
 <section id="gallery-details" class="gallery-details section">
-
     <div class="container" data-aos="fade-up">
-
         <div class="row justify-content-between gy-4 mt-4">
-
             <div class="col-lg-8" data-aos="fade-up">
                 <div class="portfolio-description">
                     <h2>@Model.MovieName</h2>
@@ -36,14 +28,12 @@
                         Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla
                         at esse enim cum deserunt eius.
                     </p>
-
                 </div>
             </div>
-
             <div class="col-lg-3" data-aos="fade-up" data-aos-delay="100">
                 <div class="portfolio-info">
                     <ul>
-                        <img src="@Model.MovieImgURL" alt="">
+                        <img src="@Model.MovieImgURL" alt="" class="movie-image">
                         <li><strong>Category</strong> Web design</li>
                         <li><strong>Client</strong> ASU Company</li>
                         <li><strong>Project date</strong> 01 March, 2020</li>
@@ -51,9 +41,31 @@
                     </ul>
                 </div>
             </div>
-
         </div>
-
     </div>
-
 </section>
+
+<style>
+    .movie-image {
+        width: 356px;
+        /* Genişlik */
+        height: 512px;
+        /* Yükseklik */
+        object-fit: cover;
+        /* Görüntüyü kırpmadan kapla */
+        border-radius: 8px;
+        /* Köşeleri yuvarlat */
+    }
+
+    .portfolio-info ul {
+        list-style-type: none;
+        /* Liste stilini kaldır */
+        padding: 0;
+        /* İç boşluğu sıfırla */
+    }
+
+    .portfolio-info ul li {
+        margin-bottom: 10px;
+        /* Liste elemanları arasında boşluk */
+    }
+</style>
