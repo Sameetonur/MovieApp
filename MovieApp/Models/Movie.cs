@@ -15,4 +15,5 @@ public class Movie
   public int ImdbPoint { get; set; }
   public string? MovieImgURL { get; set; }
   public string? MovieURL { get; set; }
+  public string? WatchUrl { get; set; }
 }

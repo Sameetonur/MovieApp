@@ -6,12 +6,12 @@ using MovieApp.Models;
 
 namespace MovieApp.Controllers
 {
-    
+
     public class CategoryController : Controller
     {
         private readonly string connectionString = "Server=localhost,1441;Database=PopcornViews;User=SA;Password=YourStrong@Passw0rd;TrustServerCertificate=true";
 
-        private async Task<IEnumerable<Movie>> GetMoviesByCategory(int categoryId)
+        public async Task<IEnumerable<Movie>> GetMoviesByCategory(int categoryId)
         {
             using (var connection = new SqlConnection(connectionString))
             {

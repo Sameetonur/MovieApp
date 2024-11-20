@@ -13,23 +13,24 @@ namespace MovieApp.Controllers
         {
             using (var connection = new SqlConnection(connectionString))
             {
-                var query = "SELECT * FROM Movies WHERE MovieId = @MovieId;"; // Sütun ismi MovieId olarak değiştirildi
+                var query = "SELECT * FROM Movies WHERE MovieId = @MovieId;";
                 return await connection.QueryFirstOrDefaultAsync<Movie>(query, new { MovieId = movieId });
             }
         }
 
         public async Task<IActionResult> Index(int id)
         {
-            // Filmi getir
+            Console.WriteLine($"Received id: {id}");
+
             var movie = await GetMovieById(id);
 
-            // if (movie == null)
-            // {
-            //     return NotFound("Film bulunamadı."); // Film bulunamazsa hata döndür
-            // }
+            if (movie == null)
+            {
+                Console.WriteLine($"No movie found for id: {id}");
+                return NotFound("Film bulunamadı.");
+            }
 
-            return View(movie); // Filmi View'a gönder
+            return View(movie);
         }
     }
 }
-
