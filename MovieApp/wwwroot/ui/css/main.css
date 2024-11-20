@@ -1313,7 +1313,7 @@ section,
 # Contact Section
 --------------------------------------------------------------*/
 .contact .info-wrap {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 .contact .info-item i {
@@ -1335,12 +1335,14 @@ section,
   font-weight: 700;
   margin: 0 0 5px 0;
   font-family: var(--default-font);
+  
 }
 
 .contact .info-item p {
   padding: 0;
   margin-bottom: 0;
   font-size: 14px;
+  
 }
 
 .contact .info-item:hover i {
@@ -1406,9 +1408,9 @@ section,
 
 #location-icon {
   font-size: 2rem;
-  color: #007bff;
+  color: #27a776;
 }
 
 #location-icon:hover {
-  color: #0056b3;
+  color: white;
 }

@@ -1,10 +1,12 @@
 DROP DATABASE IF EXISTS PopcornViews
 	go
 
-CREATE DATABASE PopcornViews
+CREATE DATABASE PopcornViews  COLLATE Turkish_CI_AS
 	go
 
 USE PopcornViews
+
+
 
 Create Table AppSettings
 (
@@ -19,6 +21,8 @@ INSERT INTO AppSettings
     (Id, BrandName, HeroTitle, HeroSubTitle, HeroImgURL)
 VALUES
     (1, 'PopcornViews', 'Sinema Dünyasına Hoş Geldiniz', 'En Sevilen Filmleri Keşfedin ve İzleyin', '')
+
+
 
 CREATE TABLE Movies
 (

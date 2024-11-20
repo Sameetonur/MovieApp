@@ -21,7 +21,7 @@
                 </li>
                 <li><a asp-controller="Iletisims" asp-action="Index">İLETİŞİM</a></li>
                 <!-- Login Modal Trigger -->
-                <li><a href="#" data-bs-toggle="modal" data-bs-target="#loginModal">Giris</a></li>
+                <li><a href="#" data-bs-toggle="modal" data-bs-target="#loginModal">GİRİŞ</a></li>
             </ul>
             <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
@@ -38,9 +38,11 @@
 <!-- Login Modal -->
 <div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true">
     <div class="modal-dialog">
-        <div class="modal-content" style="background-color: #4f4f4f; color: white;">
+        <div class="modal-content" style="background-color: black; color: white; border:  1px solid white;">
             <div class="modal-header">
-                <h5 class="modal-title" id="loginModalLabel"><i class="bi bi-person"></i> Giris</h5>
+                <h5 class="modal-title" id="loginModalLabel"><i class="bi bi-film" style="color: #c59b00;"></i>PopcornViews
+                </h5>
+                       
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"
                     style="filter: invert(1);"></button>
             </div>
@@ -63,10 +65,8 @@
                         style="background-color: #c59b00; border-color: #c59b00;">Giris</button>
                 </form>
             </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal"
-                    style="background-color: #c59b00; border-color: #c59b00;">Kapat</button>
-            </div>
+            
+            ,
         </div>
     </div>
 </div>
