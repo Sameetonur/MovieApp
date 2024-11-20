@@ -2,40 +2,65 @@
 @{
     ViewData["Title"] = "Index";
 }
-<div class="page-title" data-aos="fade">
-    <div class="heading">
-        <div class="container">
-            <div class="row d-flex justify-content-center text-center">
-                <div class="col-lg-8">
-                    <div class="movie-video">
-                        <iframe width="100%" height="500" src="@Model.MovieURL" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
 <!-- Gri Kalın Çizgi -->
 <div class="divider"></div>
 
 <section id="gallery-details" class="gallery-details section">
     <div class="container" data-aos="fade-up">
+        <!-- Video ve Çizgi -->
+        <div class="row justify-content-center">
+            <div class="col-lg-12">
+                <div class="page-title">
+                    <div class="heading">
+                        <div class="movie-video">
+                            <iframe width="100%" height="500" src="@Model.MovieURL" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+                <!-- Beyaz Çizgi -->
+                <div class="white-divider"></div>
+            </div>
+        </div>
+
+        <!-- Açıklama ve Bilgiler -->
         <div class="row justify-content-between gy-4 mt-4">
-            <div class="col-lg-8" data-aos="fade-up">
+            <div class="col-lg-8">
                 <div class="portfolio-description">
-                    <h2>@Model.MovieName</h2>
+                    <h1>@Model.MovieName?.ToUpper(new System.Globalization.CultureInfo("tr-TR"))</h1>
+                    <br>
                     <p class="mb-0">@Model.AboutMovie</p>
+
+                    <!-- Bilgiler -->
+                    <div style="margin-top: 100px;" class="row movie-details">
+                        <div class="col-lg-2">
+                            <strong>IMDb</strong>
+                            <p> <i class="bi bi-star-fill"></i> @Model.ImdbPoint</p>
+                        </div>
+                        <div class="col-lg-2">
+                            <strong>Film Süresi</strong>
+                            <p>@Model.MovieDuration dk</p>
+                        </div>
+                        <div class="col-lg-2">
+                            <strong>Yönetmen</strong>
+                            <p>@Model.Director</p>
+                        </div>
+                        <div class="col-lg-2">
+                            <strong>Yazar</strong>
+                            <p>@Model.Writer</p>
+                        </div>
+                        <div class="col-lg-2">
+                            <strong>Star Oyuncu</strong>
+                            <p>@Model.Star</p>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-3" data-aos="fade-up" data-aos-delay="100">
+
+            <!-- Film Resmi -->
+            <div class="col-lg-3">
                 <div class="portfolio-info">
                     <ul>
                         <img src="@Model.MovieImgURL" alt="" class="movie-image">
-                        <li><strong>Category</strong> Web design</li>
-                        <li><strong>Client</strong> ASU Company</li>
-                        <li><strong>Project date</strong> 01 March, 2020</li>
-                        <li><strong>Project URL</strong> <a href="#">www.example.com</a></li>
                     </ul>
                 </div>
             </div>
@@ -43,30 +68,44 @@
     </div>
 </section>
 
+
 <style>
+    /* Resim Stili */
     .movie-image {
-        width: 356px;
-        height: 512px;
+        width: 100%;
+        height: auto;
         object-fit: cover;
         border-radius: 8px;
     }
 
-    .portfolio-info ul {
-        list-style-type: none;
-        padding: 0;
+    /* IMDb Yıldız Rengi */
+    .bi-star-fill {
+        color: gold;
+        margin-left: 5px;
     }
 
-    .portfolio-info ul li {
+    /* Film Bilgi Listesi */
+    .movie-details {
+        margin-top: 20px;
+        /* Açıklama ile bilgiler arasında 20px boşluk */
+    }
+
+    .movie-details .col-lg-6 {
+        display: flex;
+        /* Yan yana hizalama için */
+        align-items: center;
+        /* Dikey hizalama */
+        font-size: 16px;
         margin-bottom: 10px;
     }
 
-    /* Gri Kalın Çizgi Stili */
-    .divider {
+    .white-divider {
         width: 100%;
-        height: 4px;
-        background-color: #ccc;
-        /* Gri renk */
+        height: 5px;
+        /* Kalınlık */
+        background-color: white;
+        /* Beyaz renk */
         margin: 20px 0;
-        /* Yukarı ve aşağı boşluk */
+        /* Üst ve alt boşluk */
     }
 </style>

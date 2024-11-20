@@ -4,26 +4,21 @@
 }
 
 
-<section id="hero" class="hero section" style="position: relative; height: 100vh; overflow: hidden;">
-
+<section id="hero" class="hero section" style="position: relative; height: 70vh; overflow: hidden;">
     <!-- Resmi ekliyoruz -->
     <img src="@Url.Content("~/ui/img/backfont.jpg")" alt="Hero Image"
-        style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; max-width: 1800px; height: 10    00px; object-fit: cover; filter: blur(3px); opacity: 0.2; z-index: 0;" />
+        style="position: absolute; top: 50%; left: 48%; transform: translate(-50%, -50%); width: 100%; max-width: 1800px; height: 650px; object-fit: cover; filter: blur(3px); opacity: 0.2; z-index: 0;" />
 
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="100">
                 <h1>
-                    @Model.AppSetting.BrandName
+                    @Model.AppSetting.HeroTitle
                 </h1>
 
                 <h4>
-                    @Model.AppSetting.HeroTitle
-                </h4>
-
-                <p>
                     @Model.AppSetting.HeroSubTitle
-                </p>
+                </h4>
             </div>
         </div>
     </div>

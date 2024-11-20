@@ -17,7 +17,7 @@ Create Table AppSettings
 INSERT INTO AppSettings
     (Id, BrandName, HeroTitle, HeroSubTitle, HeroImgURL)
 VALUES
-    (1, 'PopcornViews', 'Unutulmaz Filmler', 'Favori Filmlerinizi �zleyin', '')
+    (1, 'PopcornViews', 'Sinema Dünyasına Hoş Geldiniz', 'En Sevilen Filmleri Keşfedin ve İzleyin', '')
 
 CREATE TABLE Movies
 (
